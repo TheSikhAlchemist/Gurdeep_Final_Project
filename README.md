@@ -25,7 +25,7 @@ Gurdeep Barring
 * import time
 * import grovepi
 * import math
-* from grove_rgb_lcd import
+* from grove_rgb_lcd import *
 * import scipy.fft as fft
 
 
