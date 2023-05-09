@@ -18,4 +18,17 @@ Remember, this must be done on your computer locally in the terminal, not the RP
 
 # External Libraries: 
 
+import socket
+import numpy as np
+import argparse
+import pathlib
+import matplotlib.pyplot as plt
+import sys
+import os
+import time
+import grovepi
+import math
+from grove_rgb_lcd import *
+import scipy.fft as fft
+
 
