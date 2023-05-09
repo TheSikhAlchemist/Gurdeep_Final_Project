@@ -1,6 +1,3 @@
-# Gurdeep_Final_Project
-EE 250 Final Project
-
 # Group Member Names: 
 Gurdeep Barring
 
